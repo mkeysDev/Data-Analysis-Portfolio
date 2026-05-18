@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 <head>
-<header>Maranda Keys- Data Analsis Portfolio</header>
+<h1>Maranda Keys- Data Analsis Portfolio</h1>
 </head>
  <body> 
 <p> Hi, my name is Maranda, and I'm a graduate from Christian Brothers University. I've developed a lot of interest in data analysis during several of my internships. I have a strong foundation in data management, Excel, and Python, built through my healthcare and public services internships. I am excited to contribute and improve my analytical and technical skills in data analysis.</p>
@@ -18,13 +18,15 @@
 <h1><strong></strong>Table of Contents</strong></h1>
 <h2>About</h2>
 <h2>Portfolio Projects</h2>
-  Python
-  SQL
-  R
-  Excel/Google Sheets
-  PowerBI
-  
-  Education 
+<ul style ="list-style-type : circle;">
+<li>Python</li>
+ <li>SQL</li>
+ <li> R </li> 
+ <li>Excel/Google Sheets</li>
+ <li>Power BI</li> 
+</ul>
+
+ <a href =""> Education </a>
   Certifciation
   Contact
 
