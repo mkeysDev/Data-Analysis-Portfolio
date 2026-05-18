@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 <head>
-<h1>Maranda Keys- Data Analsis Portfolio</h1>
+<h1>Maranda Keys- Data Analysis Portfolio</h1>
 </head>
  <body> 
 <p> Hi, my name is Maranda, and I'm a graduate from Christian Brothers University. I've developed a lot of interest in data analysis during several of my internships. I have a strong foundation in data management, Excel, and Python, built through my healthcare and public services internships. I am excited to contribute and improve my analytical and technical skills in data analysis.</p>
