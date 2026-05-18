@@ -26,11 +26,13 @@
  <li>Power BI</li> 
 </ul>
 
- <a href =""> Education </a>
-  Certifciation
-  Contact
-
-Protfolio Projects
+ <ul>
+ <li></li><a href =""> Education </a></li>
+  <li><a href =="">Certifciation</a></li>
+ <li><a href = ""> Contact</a></li>
+ </ul>
+ 
+<h1>Protfolio Projects</h1>
   
 </html>
 
