@@ -21,7 +21,7 @@
 <ul style ="list-style-type : circle;">
 <li>Python</li>
  <ul></ul>
- <li id ="Amazon2023"><a href="[AmazonSpending2023.ipynb](https://github.com/mkeysDev/Projects/blob/main/AmazonSpending2023.ipynb)">Amazon Spending 2023 Data Analysis</a></li>
+ <li id ="Amazon2023"><a href="https://github.com/mkeysDev/Projects/blob/main/AmazonSpending2023.ipynb"</a>Amazon Spending 2023</li>
  <li>SQL</li>
  <li> R </li> 
  <li>Excel/Google Sheets</li>
