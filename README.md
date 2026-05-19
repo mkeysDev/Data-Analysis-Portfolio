@@ -20,6 +20,8 @@
 <h2>Portfolio Projects</h2>
 <ul style ="list-style-type : circle;">
 <li>Python</li>
+ <ul></ul>
+ <li id ="Amazon2023"><a href="https://github.com/mkeysDev/Data-Analysis-Portfolio/blob/main/AmazonSpending2023.ipynb"></a></li>
  <li>SQL</li>
  <li> R </li> 
  <li>Excel/Google Sheets</li>
